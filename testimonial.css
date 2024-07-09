@@ -1,0 +1,1301 @@
+.logistik6 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  white-space: nowrap;
+}
+.deep-nested {
+  width: 171px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+}
+.component-2-child {
+  height: 43px;
+  width: 103px;
+  display: none;
+}
+.homepage3 {
+  min-width: 83px;
+}
+.about6,
+.homepage3,
+.pricing5 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+}
+.about6 {
+  min-width: 46px;
+  z-index: 1;
+}
+.pricing5 {
+  min-width: 52px;
+}
+.pricing-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) 0 0;
+}
+.testimonial-background {
+  height: 39px;
+  width: 130px;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 19.5px);
+  left: calc(50% - 65px);
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-300);
+}
+.testimonial8 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  min-width: 86px;
+  z-index: 1;
+}
+.component-2,
+.testimonial-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.testimonial-container {
+  position: relative;
+  color: var(--color-white);
+}
+.component-2 {
+  width: 477px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro-100);
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: var(--padding-sm) var(--padding-7xl) var(--padding-sm)
+    var(--padding-9xl);
+  box-sizing: border-box;
+  gap: var(--gap-28xl);
+  max-width: 100%;
+}
+.sign-up7 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 60px;
+  white-space: nowrap;
+}
+.sign-up-container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+}
+.sign-in7 {
+  text-decoration: none;
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  min-width: 53px;
+}
+.sign-in6 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-sm);
+  background-color: var(--color-greenyellow-100);
+  border-radius: var(--br-31xl);
+  overflow: hidden;
+  justify-content: flex-start;
+  white-space: nowrap;
+  z-index: 1;
+}
+.sign-in6:hover {
+  background-color: var(--color-greenyellow-200);
+}
+.deep-nested-parent,
+.sign-in6,
+.sign-up6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.sign-up6 {
+  border-radius: var(--br-53xl);
+  background-color: var(--color-gray-300);
+  overflow: hidden;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-9xs) var(--padding-9xs)
+    var(--padding-lg);
+  gap: var(--gap-9xs);
+  color: var(--color-white);
+}
+.deep-nested-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.testimonial9 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.testimonial-block {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.solusi-logistik-terpercaya {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-gray-300);
+}
+.nested-content,
+.nested-content-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.nested-content {
+  width: 569px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.nested-content-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-4xl);
+  box-sizing: border-box;
+}
+.frame-parent39 {
+  width: 1668px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 81px;
+  max-width: 100%;
+}
+.testimonial-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-3xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child17 {
+  width: 404px;
+  height: 207px;
+  position: relative;
+  box-shadow: 10px 13px 30.8px -3px rgba(0, 0, 0, 0.14);
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.frame-child18 {
+  height: 71px;
+  width: 71px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+.alfa-rizki-zamimi4 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.perfume-bussiness3 {
+  width: 156px;
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-helvetica);
+  display: inline-block;
+  z-index: 1;
+}
+.alfa-rizki-zamimi-parent2 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-12xs);
+}
+.alfa-rizki-zamimi-parent2,
+.ellipse-container,
+.frame-wrapper12,
+.frame-wrapper13 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper13 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  min-width: 130px;
+}
+.ellipse-container,
+.frame-wrapper12 {
+  flex-direction: row;
+}
+.ellipse-container {
+  flex: 1;
+  gap: var(--gap-4xl);
+}
+.frame-wrapper12 {
+  width: 296px;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.addition-to-my4,
+.logistik-has-been3 {
+  margin: 0;
+}
+.logistik-has-been-container4 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-style: italic;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child19,
+.rectangle-parent13 {
+  width: 404px;
+  box-shadow: 10px 13px 30.8px -3px rgba(0, 0, 0, 0.14);
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  max-width: 100%;
+}
+.rectangle-parent13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-14xl) var(--padding-xl) var(--padding-17xl)
+    var(--padding-16xl);
+  box-sizing: border-box;
+  gap: var(--gap-lgi);
+}
+.frame-child19 {
+  height: 207px;
+  position: relative;
+  display: none;
+}
+.frame-child20 {
+  height: 71px;
+  width: 71px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+.alfa-rizki-zamimi5 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.perfume-bussiness4 {
+  width: 156px;
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-helvetica);
+  display: inline-block;
+  z-index: 1;
+}
+.alfa-rizki-zamimi-parent3 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-12xs);
+}
+.alfa-rizki-zamimi-parent3,
+.ellipse-parent1,
+.frame-wrapper14,
+.frame-wrapper15 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper15 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  min-width: 130px;
+}
+.ellipse-parent1,
+.frame-wrapper14 {
+  flex-direction: row;
+}
+.ellipse-parent1 {
+  flex: 1;
+  gap: var(--gap-4xl);
+}
+.frame-wrapper14 {
+  width: 296px;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.addition-to-my5,
+.logistik-has-been4 {
+  margin: 0;
+}
+.logistik-has-been-container5 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-style: italic;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child21,
+.rectangle-parent14 {
+  width: 404px;
+  box-shadow: 10px 13px 30.8px -3px rgba(0, 0, 0, 0.14);
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  max-width: 100%;
+}
+.rectangle-parent14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-14xl) var(--padding-xl) var(--padding-17xl)
+    var(--padding-16xl);
+  box-sizing: border-box;
+  gap: var(--gap-lgi);
+}
+.frame-child21 {
+  height: 207px;
+  position: relative;
+  display: none;
+}
+.frame-child22 {
+  height: 71px;
+  width: 71px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+.alfa-rizki-zamimi6 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.perfume-bussiness5 {
+  width: 156px;
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-helvetica);
+  display: inline-block;
+  z-index: 1;
+}
+.alfa-rizki-zamimi-parent4 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-12xs);
+}
+.alfa-rizki-zamimi-parent4,
+.ellipse-parent2,
+.frame-wrapper16,
+.frame-wrapper17 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper17 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  min-width: 130px;
+}
+.ellipse-parent2,
+.frame-wrapper16 {
+  flex-direction: row;
+}
+.ellipse-parent2 {
+  flex: 1;
+  gap: var(--gap-4xl);
+}
+.frame-wrapper16 {
+  width: 296px;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.addition-to-my6,
+.logistik-has-been5 {
+  margin: 0;
+}
+.logistik-has-been-container6 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-style: italic;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-parent40,
+.rectangle-parent15 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent15 {
+  width: 404px;
+  box-shadow: 10px 13px 30.8px -3px rgba(0, 0, 0, 0.14);
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-14xl) var(--padding-xl) var(--padding-17xl)
+    var(--padding-16xl);
+  box-sizing: border-box;
+  gap: var(--gap-lgi);
+}
+.frame-parent40 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-child23 {
+  width: 404px;
+  height: 207px;
+  position: relative;
+  box-shadow: 10px 13px 30.8px -3px rgba(0, 0, 0, 0.14);
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.frame-child24 {
+  height: 71px;
+  width: 71px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+.alfa-rizki-zamimi7 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.perfume-bussiness6 {
+  width: 156px;
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-helvetica);
+  display: inline-block;
+  z-index: 1;
+}
+.alfa-rizki-zamimi-parent5 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-12xs);
+}
+.alfa-rizki-zamimi-parent5,
+.ellipse-parent3,
+.frame-wrapper18,
+.frame-wrapper19 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper19 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  min-width: 130px;
+}
+.ellipse-parent3,
+.frame-wrapper18 {
+  flex-direction: row;
+}
+.ellipse-parent3 {
+  flex: 1;
+  gap: var(--gap-4xl);
+}
+.frame-wrapper18 {
+  width: 296px;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.addition-to-my7,
+.logistik-has-been6 {
+  margin: 0;
+}
+.logistik-has-been-container7 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-style: italic;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child25,
+.rectangle-parent16 {
+  width: 404px;
+  box-shadow: 10px 13px 30.8px -3px rgba(0, 0, 0, 0.14);
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  max-width: 100%;
+}
+.rectangle-parent16 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-14xl) var(--padding-xl) var(--padding-17xl)
+    var(--padding-16xl);
+  box-sizing: border-box;
+  gap: var(--gap-lgi);
+}
+.frame-child25 {
+  height: 207px;
+  position: relative;
+  display: none;
+}
+.frame-child26 {
+  height: 71px;
+  width: 71px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+.alfa-rizki-zamimi8 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.perfume-bussiness7 {
+  width: 156px;
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-helvetica);
+  display: inline-block;
+  z-index: 1;
+}
+.alfa-rizki-zamimi-parent6 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-12xs);
+}
+.alfa-rizki-zamimi-parent6,
+.ellipse-parent4,
+.frame-wrapper20,
+.frame-wrapper21 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper21 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  min-width: 130px;
+}
+.ellipse-parent4,
+.frame-wrapper20 {
+  flex-direction: row;
+}
+.ellipse-parent4 {
+  flex: 1;
+  gap: var(--gap-4xl);
+}
+.frame-wrapper20 {
+  width: 296px;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.addition-to-my8,
+.logistik-has-been7 {
+  margin: 0;
+}
+.logistik-has-been-container8 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-style: italic;
+  font-weight: 500;
+  z-index: 1;
+}
+.frame-child27,
+.rectangle-parent17 {
+  width: 404px;
+  box-shadow: 10px 13px 30.8px -3px rgba(0, 0, 0, 0.14);
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  max-width: 100%;
+}
+.rectangle-parent17 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-14xl) var(--padding-xl) var(--padding-17xl)
+    var(--padding-16xl);
+  box-sizing: border-box;
+  gap: var(--gap-lgi);
+}
+.frame-child27 {
+  height: 207px;
+  position: relative;
+  display: none;
+}
+.frame-child28 {
+  height: 71px;
+  width: 71px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+.alfa-rizki-zamimi9 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.perfume-bussiness8 {
+  width: 156px;
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-helvetica);
+  display: inline-block;
+  z-index: 1;
+}
+.alfa-rizki-zamimi-parent7 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-12xs);
+}
+.alfa-rizki-zamimi-parent7,
+.ellipse-parent5,
+.frame-wrapper22,
+.frame-wrapper23 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper23 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  min-width: 130px;
+}
+.ellipse-parent5,
+.frame-wrapper22 {
+  flex-direction: row;
+}
+.ellipse-parent5 {
+  flex: 1;
+  gap: var(--gap-4xl);
+}
+.frame-wrapper22 {
+  width: 296px;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.addition-to-my9,
+.logistik-has-been8 {
+  margin: 0;
+}
+.logistik-has-been-container9 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-style: italic;
+  font-weight: 500;
+  z-index: 1;
+}
+.rectangle-parent18 {
+  width: 404px;
+  box-shadow: 10px 13px 30.8px -3px rgba(0, 0, 0, 0.14);
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-14xl) var(--padding-xl) var(--padding-17xl)
+    var(--padding-16xl);
+  box-sizing: border-box;
+  gap: var(--gap-lgi);
+  max-width: 100%;
+}
+.frame-parent41 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-parent41,
+.testimonials,
+.testimonials-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.testimonials {
+  width: 1373px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-30xl);
+}
+.testimonials-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) var(--padding-7xl) var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-inter);
+}
+.solusi-logistik-terpercaya1 {
+  position: relative;
+  font-weight: 500;
+}
+.solusi-logistik-terpercaya-unt-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-8xl) var(--padding-2xl);
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-300);
+}
+.footer-background2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+}
+.logistik7 {
+  margin: 0;
+  width: 322px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.layanan-logistik-andal4,
+.untuk-kebutuhan-bisnis3 {
+  margin: 0;
+}
+.layanan-logistik-andal-container3 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.branding1,
+.logo-container,
+.slogan-container1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.slogan-container1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-base);
+}
+.branding1,
+.logo-container {
+  flex-direction: column;
+}
+.logo-container {
+  width: 370px;
+  gap: var(--gap-4xs);
+}
+.branding1 {
+  width: 497px;
+  padding: 0 0 var(--padding-155xl);
+  box-sizing: border-box;
+  min-height: 282px;
+  font-size: var(--font-size-29xl);
+}
+.perusahaan3 {
+  font-weight: 600;
+}
+.about7,
+.delivery3,
+.features3,
+.home3,
+.perusahaan3 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.company-info4 {
+  width: 284px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-16xl-8);
+}
+.support3,
+.testimonial10 {
+  position: relative;
+  z-index: 1;
+}
+.support3 {
+  align-self: stretch;
+  font-weight: 600;
+}
+.testimonial10 {
+  flex: 1;
+}
+.resource-categories {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.blog3 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.resource-categories1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.resources3 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.resource-categories2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.faq3 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.resource-categories3,
+.resource-links {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.resource-categories3 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.resource-links {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-16xl-8);
+  min-width: 185px;
+}
+.peoples3 {
+  font-weight: 600;
+}
+.career3,
+.enterpreneur3,
+.enthusiast3,
+.peoples3 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.resource-links-parent,
+.target-audience2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-16xl-7);
+  min-width: 185px;
+}
+.resource-links-parent {
+  flex-direction: row;
+  gap: var(--gap-xs);
+  min-width: 377px;
+  max-width: 100%;
+}
+.contact4 {
+  font-weight: 600;
+}
+.contact4,
+.indrapuri3,
+.infologistikcom3,
+.placeholder {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.infologistikcom3,
+.placeholder {
+  white-space: nowrap;
+}
+.company-info5,
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact-container {
+  align-self: stretch;
+  gap: var(--gap-16xl-7);
+}
+.company-info5 {
+  height: 263px;
+  width: 284px;
+}
+.footer-content3,
+.footer-links3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.footer-links3 {
+  width: 1686px;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-smi);
+}
+.footer-content3 {
+  width: 1904px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.divider {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.logistik-all-right3 {
+  width: 501px;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.logistik-all-right3,
+.privacy-policy3,
+.terms-of-service3 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  z-index: 1;
+}
+.privacy-policy3 {
+  width: 224px;
+  flex-shrink: 0;
+}
+.terms-of-service3 {
+  flex: 1;
+  min-width: 170px;
+}
+.legal-links3 {
+  width: 522px;
+  justify-content: flex-start;
+  gap: var(--gap-18xl);
+}
+.copyright-content2,
+.copyright-details,
+.legal-links3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.copyright-details {
+  width: 1673px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.copyright-content2 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-6xl);
+  box-sizing: border-box;
+}
+.divider-parent,
+.footer3,
+.testimonial7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.divider-parent {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-51xl);
+  max-width: 100%;
+}
+.footer3,
+.testimonial7 {
+  position: relative;
+  box-sizing: border-box;
+  text-align: left;
+  font-family: var(--font-inter);
+}
+.footer3 {
+  align-self: stretch;
+  align-items: flex-end;
+  padding: var(--padding-98xl) 0 var(--padding-64xl);
+  gap: var(--gap-110xl);
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.testimonial7 {
+  width: 100%;
+  background-color: var(--color-whitesmoke-100);
+  overflow: hidden;
+  align-items: flex-start;
+  padding: var(--padding-30xl) 0 0;
+  gap: 115px;
+  line-height: normal;
+  letter-spacing: normal;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+@media screen and (max-width: 1300px) {
+  .frame-parent40,
+  .frame-parent41 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .copyright-details {
+    flex-wrap: wrap;
+  }
+  .divider-parent {
+    gap: var(--gap-16xl);
+  }
+  .footer3 {
+    gap: var(--gap-45xl);
+  }
+  .testimonial7 {
+    gap: 57px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .component-2 {
+    display: none;
+    gap: var(--gap-4xl);
+  }
+  .testimonial9 {
+    font-size: var(--font-size-19xl);
+  }
+  .frame-parent39 {
+    gap: var(--gap-21xl);
+  }
+  .testimonials {
+    gap: var(--gap-5xl);
+  }
+  .logistik7 {
+    font-size: var(--font-size-19xl);
+  }
+  .resource-links-parent {
+    flex-wrap: wrap;
+  }
+  .legal-links3 {
+    gap: var(--gap-lg);
+  }
+  .divider-parent {
+    gap: var(--gap-mid);
+  }
+  .footer3 {
+    gap: var(--gap-13xl);
+    padding-top: var(--padding-57xl);
+    padding-bottom: var(--padding-35xl);
+    box-sizing: border-box;
+  }
+  .testimonial7 {
+    gap: 29px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .testimonial9 {
+    font-size: var(--font-size-10xl);
+  }
+  .solusi-logistik-terpercaya {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-parent39 {
+    gap: var(--gap-xl);
+  }
+  .alfa-rizki-zamimi4 {
+    font-size: var(--font-size-base);
+  }
+  .ellipse-container {
+    flex-wrap: wrap;
+  }
+  .alfa-rizki-zamimi5,
+  .logistik-has-been-container4 {
+    font-size: var(--font-size-base);
+  }
+  .ellipse-parent1 {
+    flex-wrap: wrap;
+  }
+  .alfa-rizki-zamimi6,
+  .logistik-has-been-container5 {
+    font-size: var(--font-size-base);
+  }
+  .ellipse-parent2 {
+    flex-wrap: wrap;
+  }
+  .alfa-rizki-zamimi7,
+  .logistik-has-been-container6 {
+    font-size: var(--font-size-base);
+  }
+  .ellipse-parent3 {
+    flex-wrap: wrap;
+  }
+  .alfa-rizki-zamimi8,
+  .logistik-has-been-container7 {
+    font-size: var(--font-size-base);
+  }
+  .ellipse-parent4 {
+    flex-wrap: wrap;
+  }
+  .alfa-rizki-zamimi9,
+  .logistik-has-been-container8 {
+    font-size: var(--font-size-base);
+  }
+  .ellipse-parent5 {
+    flex-wrap: wrap;
+  }
+  .logistik-has-been-container9 {
+    font-size: var(--font-size-base);
+  }
+  .solusi-logistik-terpercaya1 {
+    font-size: var(--font-size-lgi);
+  }
+  .logistik7 {
+    font-size: var(--font-size-10xl);
+  }
+  .about7,
+  .delivery3,
+  .features3,
+  .home3,
+  .perusahaan3 {
+    font-size: var(--font-size-base);
+  }
+  .company-info4 {
+    gap: var(--gap-lg);
+  }
+  .blog3,
+  .faq3,
+  .resources3,
+  .support3,
+  .testimonial10 {
+    font-size: var(--font-size-base);
+  }
+  .resource-links {
+    gap: var(--gap-lg);
+  }
+  .career3,
+  .enterpreneur3,
+  .enthusiast3,
+  .peoples3 {
+    font-size: var(--font-size-base);
+  }
+  .target-audience2 {
+    gap: var(--gap-lg);
+  }
+  .resource-links-parent {
+    min-width: 100%;
+  }
+  .contact4,
+  .indrapuri3,
+  .infologistikcom3,
+  .placeholder {
+    font-size: var(--font-size-base);
+  }
+  .contact-container {
+    gap: var(--gap-lg);
+  }
+  .logistik-all-right3,
+  .privacy-policy3,
+  .terms-of-service3 {
+    font-size: var(--font-size-base);
+  }
+  .legal-links3 {
+    flex-wrap: wrap;
+  }
+}

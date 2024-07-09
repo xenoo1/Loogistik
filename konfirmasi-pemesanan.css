@@ -1,0 +1,1022 @@
+.logistik8 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  white-space: nowrap;
+}
+.logistik-frame {
+  width: 171px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.component-1-child3 {
+  height: 43px;
+  width: 103px;
+  display: none;
+}
+.homepage4 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  min-width: 83px;
+  cursor: pointer;
+}
+.about-testimonial2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+}
+.about8,
+.pricing6 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+}
+.about8 {
+  min-width: 46px;
+  z-index: 1;
+}
+.pricing6 {
+  min-width: 52px;
+}
+.about-testimonial3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs) 0 0;
+}
+.component-1-child4 {
+  height: 39px;
+  width: 146px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-300);
+  display: none;
+}
+.testimonial11 {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  min-width: 86px;
+}
+.component-13 {
+  margin: 0;
+  width: 477px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro-100);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) var(--padding-10xl) var(--padding-sm)
+    var(--padding-18xl);
+  box-sizing: border-box;
+  gap: var(--gap-17xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.sign-up9 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 60px;
+  white-space: nowrap;
+}
+.sign-up-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+}
+.sign-in9 {
+  text-decoration: none;
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  min-width: 53px;
+}
+.sign-in8 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-sm);
+  background-color: var(--color-greenyellow-100);
+  border-radius: var(--br-31xl);
+  overflow: hidden;
+  justify-content: flex-start;
+  white-space: nowrap;
+  z-index: 1;
+}
+.rectangle-parent19:hover,
+.sign-in8:hover {
+  background-color: var(--color-greenyellow-200);
+}
+.frame-nav,
+.konfirmasi-pemesanan-inner,
+.sign-in8,
+.sign-up8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.sign-up8 {
+  border-radius: var(--br-53xl);
+  background-color: var(--color-gray-300);
+  overflow: hidden;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-9xs) var(--padding-9xs)
+    var(--padding-lg);
+  gap: var(--gap-9xs);
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.frame-nav,
+.konfirmasi-pemesanan-inner {
+  max-width: 100%;
+}
+.frame-nav {
+  margin: 0;
+  width: 1668px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.konfirmasi-pemesanan-inner {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-3xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.informasi-pemesanan {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.order-info-title {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 30px;
+}
+.pesan-pengiriman-anda2 {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-gray-300);
+}
+.order-info-content,
+.order-info-header {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.order-info-header {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.order-info-content {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.order-details-child {
+  height: 993px;
+  width: 1378px;
+  position: relative;
+  box-shadow: 10px 13px 30.8px -3px rgba(0, 0, 0, 0.14);
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.alamat-penerima,
+.alamat-pengirim,
+.berat-barang2,
+.dimensi-barang2,
+.jenis-barang1,
+.jumlah-barang1,
+.layanan-pengiriman1,
+.metode-pembayaran1,
+.nama-penerima,
+.nama-pengirim,
+.no-pesanan,
+.nomor-telepon-penerima,
+.nomor-telepon-pengirim,
+.tanggal-pemesanan,
+.total-biaya1 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.total-biaya1 {
+  display: inline-block;
+  min-width: 125px;
+}
+.order-detail-items,
+.order-inputs {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.order-detail-items {
+  gap: var(--gap-12xl);
+}
+.order-inputs {
+  padding: var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+  min-width: 290px;
+}
+.order-detail-items-child,
+.order-detail-items-child1,
+.order-detail-items-child10,
+.order-detail-items-child11,
+.order-detail-items-child2,
+.order-detail-items-child3,
+.order-detail-items-child4,
+.order-detail-items-child5,
+.order-detail-items-child6,
+.order-detail-items-child7,
+.order-detail-items-child8,
+.order-detail-items-child9,
+.order-detail-items-inner,
+.order-detail-items-item,
+.order-detail-placeholders {
+  align-self: stretch;
+  height: 40px;
+  position: relative;
+  border-radius: var(--br-6xs);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.order-detail-items1 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  min-width: 532px;
+}
+.order-detail-items1,
+.order-details,
+.order-info-container {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.order-details {
+  align-self: stretch;
+  box-shadow: 10px 13px 30.8px -3px rgba(0, 0, 0, 0.14);
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-39xl) var(--padding-39xl) var(--padding-36xl)
+    var(--padding-48xl);
+  box-sizing: border-box;
+  gap: 145px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-300);
+}
+.order-info-container {
+  width: 1378px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-74xl);
+}
+.order-info-container-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-20xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.informasi-pengiriman {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.shipping-info-title {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-14xl) 0 var(--padding-15xl);
+}
+.pesan-pengiriman-anda3 {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-gray-300);
+}
+.shipping-info-content,
+.shipping-info-header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.shipping-info-content {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.shipping-details-child {
+  height: 329px;
+  width: 1378px;
+  position: relative;
+  box-shadow: 10px 13px 30.8px -3px rgba(0, 0, 0, 0.14);
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.no-resi {
+  display: inline-block;
+  min-width: 94px;
+}
+.estimasi-waktu-pengiriman,
+.link-pelacakan,
+.no-resi,
+.status-pengiriman {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.order-detail-items2,
+.shipping-inputs {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.order-detail-items2 {
+  justify-content: flex-start;
+  gap: var(--gap-12xl);
+}
+.shipping-inputs {
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-10xs);
+  box-sizing: border-box;
+  min-width: 310px;
+}
+.shipping-data-values,
+.shipping-data-values1,
+.shipping-data-values2,
+.shipping-data-values3 {
+  align-self: stretch;
+  height: 40px;
+  position: relative;
+  border-radius: var(--br-6xs);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.order-detail-items3,
+.shipping-details {
+  display: flex;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.order-detail-items3 {
+  width: 818px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 818px;
+}
+.shipping-details {
+  align-self: stretch;
+  box-shadow: 10px 13px 30.8px -3px rgba(0, 0, 0, 0.14);
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-36xl) var(--padding-39xl) var(--padding-35xl)
+    var(--padding-48xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-300);
+}
+.shipping-info-container {
+  width: 1378px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-74xl);
+  max-width: 100%;
+}
+.shipping-info-container-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-10xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.frame-child29 {
+  height: 79px;
+  width: 349px;
+  position: relative;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-greenyellow-100);
+  display: none;
+  max-width: 100%;
+}
+.kembali-ke-homepage {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  cursor: pointer;
+  z-index: 1;
+}
+.konfirmasi-pemesanan-child,
+.rectangle-parent19 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent19 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-6xl) var(--padding-25xl);
+  background-color: var(--color-greenyellow-100);
+  border-radius: var(--br-27xl);
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.konfirmasi-pemesanan-child {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) var(--padding-10xl) var(--padding-xl);
+}
+.footer-background3 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+}
+.logistik9 {
+  margin: 0;
+  width: 322px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.layanan-logistik-andal5,
+.untuk-kebutuhan-bisnis4 {
+  margin: 0;
+}
+.layanan-logistik-andal-container4 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.footer-column-one,
+.footer-slogan,
+.logistik-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.footer-slogan {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-base);
+}
+.footer-column-one,
+.logistik-group {
+  flex-direction: column;
+}
+.logistik-group {
+  width: 370px;
+  gap: var(--gap-4xs);
+}
+.footer-column-one {
+  width: 497px;
+  padding: 0 0 var(--padding-155xl);
+  box-sizing: border-box;
+  min-height: 282px;
+  font-size: var(--font-size-29xl);
+}
+.perusahaan4 {
+  font-weight: 600;
+}
+.about9,
+.delivery4,
+.features4,
+.home4,
+.perusahaan4 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.company-links {
+  width: 284px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-16xl-8);
+}
+.support4,
+.testimonial12 {
+  position: relative;
+  z-index: 1;
+}
+.support4 {
+  align-self: stretch;
+  font-weight: 600;
+}
+.testimonial12 {
+  flex: 1;
+}
+.footer-link-labels-two {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.blog4 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.footer-link-labels-two1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.resources4 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.footer-link-labels-two2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.faq4 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.footer-link-labels-two3,
+.resource-links1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer-link-labels-two3 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.resource-links1 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-16xl-8);
+  min-width: 213px;
+}
+.peoples4 {
+  font-weight: 600;
+}
+.career4,
+.enterpreneur4,
+.enthusiast4,
+.peoples4 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.contact-details2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-16xl-7);
+  min-width: 213px;
+}
+.contact5 {
+  font-weight: 600;
+}
+.contact5,
+.div2,
+.indrapuri4,
+.infologistikcom4 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.div2,
+.infologistikcom4 {
+  white-space: nowrap;
+}
+.contact-details3,
+.contact-info {
+  flex: 1;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact-details3 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-16xl-7);
+  min-width: 213px;
+}
+.contact-info {
+  gap: 13.5px;
+  min-width: 571px;
+}
+.contact-info,
+.footer-column-one-parent,
+.footer-content4 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.footer-column-one-parent {
+  width: 1686px;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+}
+.footer-content4 {
+  width: 1904px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.line-div {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.logistik-all-right4 {
+  width: 501px;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.logistik-all-right4,
+.privacy-policy4,
+.terms-of-service4 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  z-index: 1;
+}
+.privacy-policy4 {
+  width: 224px;
+  flex-shrink: 0;
+}
+.terms-of-service4 {
+  flex: 1;
+  min-width: 170px;
+}
+.legal-links4 {
+  width: 522px;
+  justify-content: flex-start;
+  gap: var(--gap-18xl);
+}
+.copyright-content3,
+.footer-copyright-content,
+.legal-links4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.copyright-content3 {
+  width: 1673px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.footer-copyright-content {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-6xl);
+  box-sizing: border-box;
+}
+.footer4,
+.konfirmasi-pemesanan,
+.line-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.line-parent {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-51xl);
+  max-width: 100%;
+}
+.footer4,
+.konfirmasi-pemesanan {
+  position: relative;
+  box-sizing: border-box;
+}
+.footer4 {
+  align-self: stretch;
+  align-items: flex-end;
+  padding: var(--padding-98xl) 0 var(--padding-64xl);
+  gap: var(--gap-110xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.konfirmasi-pemesanan {
+  width: 100%;
+  background-color: var(--color-whitesmoke-100);
+  overflow: hidden;
+  align-items: flex-start;
+  padding: var(--padding-32xl) 0 0;
+  gap: var(--gap-74xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1325px) {
+  .order-inputs {
+    flex: 1;
+  }
+  .order-details {
+    flex-wrap: wrap;
+    gap: 72px;
+    padding-left: var(--padding-14xl);
+    padding-right: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .order-detail-items3,
+  .shipping-inputs {
+    flex: 1;
+  }
+  .shipping-details {
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: var(--padding-14xl);
+    padding-right: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .order-details {
+    padding-top: 38px;
+    padding-bottom: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+  .order-detail-items3 {
+    min-width: 100%;
+  }
+  .copyright-content3 {
+    flex-wrap: wrap;
+  }
+  .line-parent {
+    gap: var(--gap-16xl);
+  }
+  .footer4 {
+    gap: var(--gap-45xl);
+  }
+  .konfirmasi-pemesanan {
+    gap: var(--gap-27xl);
+  }
+}
+@media screen and (max-width: 800px) {
+  .component-13 {
+    display: none;
+    gap: var(--gap-lg);
+  }
+  .frame-nav {
+    width: 1191px;
+  }
+  .informasi-pemesanan {
+    font-size: var(--font-size-19xl);
+  }
+  .order-detail-items1 {
+    min-width: 100%;
+  }
+  .order-details {
+    gap: var(--gap-17xl);
+    padding-top: var(--padding-6xl);
+    padding-bottom: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .order-info-container {
+    gap: var(--gap-27xl);
+  }
+  .informasi-pengiriman {
+    font-size: var(--font-size-19xl);
+  }
+  .shipping-info-container {
+    gap: var(--gap-27xl);
+  }
+  .logistik9 {
+    font-size: var(--font-size-19xl);
+  }
+  .contact-info {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .legal-links4 {
+    gap: var(--gap-lg);
+  }
+  .line-parent {
+    gap: var(--gap-mid);
+  }
+  .footer4 {
+    gap: var(--gap-13xl);
+    padding-top: var(--padding-57xl);
+    padding-bottom: var(--padding-35xl);
+    box-sizing: border-box;
+  }
+  .konfirmasi-pemesanan {
+    gap: var(--gap-4xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .informasi-pemesanan {
+    font-size: var(--font-size-10xl);
+  }
+  .alamat-penerima,
+  .alamat-pengirim,
+  .berat-barang2,
+  .dimensi-barang2,
+  .jenis-barang1,
+  .jumlah-barang1,
+  .layanan-pengiriman1,
+  .metode-pembayaran1,
+  .nama-penerima,
+  .nama-pengirim,
+  .no-pesanan,
+  .nomor-telepon-penerima,
+  .nomor-telepon-pengirim,
+  .pesan-pengiriman-anda2,
+  .tanggal-pemesanan,
+  .total-biaya1 {
+    font-size: var(--font-size-lgi);
+  }
+  .order-detail-items {
+    gap: var(--gap-mini);
+  }
+  .order-details {
+    gap: var(--gap-lg);
+  }
+  .order-info-container {
+    gap: var(--gap-4xl);
+  }
+  .informasi-pengiriman {
+    font-size: var(--font-size-10xl);
+  }
+  .estimasi-waktu-pengiriman,
+  .link-pelacakan,
+  .no-resi,
+  .pesan-pengiriman-anda3,
+  .status-pengiriman {
+    font-size: var(--font-size-lgi);
+  }
+  .order-detail-items2 {
+    gap: var(--gap-mini);
+  }
+  .shipping-info-container {
+    gap: var(--gap-4xl);
+  }
+  .rectangle-parent19 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .logistik9 {
+    font-size: var(--font-size-10xl);
+  }
+  .about9,
+  .delivery4,
+  .features4,
+  .home4,
+  .perusahaan4 {
+    font-size: var(--font-size-base);
+  }
+  .company-links {
+    gap: var(--gap-lg);
+  }
+  .blog4,
+  .faq4,
+  .resources4,
+  .support4,
+  .testimonial12 {
+    font-size: var(--font-size-base);
+  }
+  .resource-links1 {
+    gap: var(--gap-lg);
+  }
+  .career4,
+  .enterpreneur4,
+  .enthusiast4,
+  .peoples4 {
+    font-size: var(--font-size-base);
+  }
+  .contact-details2 {
+    gap: var(--gap-lg);
+  }
+  .contact5,
+  .div2,
+  .indrapuri4,
+  .infologistikcom4 {
+    font-size: var(--font-size-base);
+  }
+  .contact-details3 {
+    gap: var(--gap-lg);
+  }
+  .logistik-all-right4,
+  .privacy-policy4,
+  .terms-of-service4 {
+    font-size: var(--font-size-base);
+  }
+  .legal-links4 {
+    flex-wrap: wrap;
+  }
+}
